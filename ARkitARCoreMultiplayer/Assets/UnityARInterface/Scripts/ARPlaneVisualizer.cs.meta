@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5d15554ba01a81b43836c6e4770c204f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PlanePrefab: {fileID: 1983520619281468, guid: 7efa6a20912a94315ab013cc4e1bf14b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
